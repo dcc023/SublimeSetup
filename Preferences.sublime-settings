@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Agila Theme/Agila Classic Oceanic Next.tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Agila Classic.sublime-theme"
+}
